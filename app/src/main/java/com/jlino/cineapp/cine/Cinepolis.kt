@@ -50,7 +50,7 @@ class Cinepolis : AppCompatActivity() {
         npCLient.wrapSelectorWheel = false
 
         npTickets.minValue = 1
-        npTickets.maxValue = 10
+        npTickets.maxValue = 7
         npTickets.wrapSelectorWheel = false
 
         rbNo.isChecked = false;
